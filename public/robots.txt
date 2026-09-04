@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://garage-europneus.vercel.app/sitemap.xml
+Sitemap: https://www.garage-europneus.fr/sitemap.xml
