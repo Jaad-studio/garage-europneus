@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://garage-europneus.vercel.app/sitemap.xml
